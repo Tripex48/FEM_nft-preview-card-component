@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Tripex48/FEM_qr-code-component](https://github.com/Tripex48/FEM_qr-code-component)
-- Live Site URL: [https://Tripex48.github.io/FEM_qr-code-component](https://Tripex48.github.io/FEM_qr-code-component)
+- Solution URL: [https://github.com/Tripex48/FEM_nft-preview-card-component](https://github.com/Tripex48/FEM_nft-preview-card-component)
+- Live Site URL: [https://Tripex48.github.io/FEM_nft-preview-card-component](https://Tripex48.github.io/FEM_nft-preview-card-component)
 
 ## My process
 
@@ -36,14 +36,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - Tailwind CSS
-- Grid
+- Grid and Flexbox
 - Mobile-first workflow
 
 ### Useful resources
 
-- [Tailwind CSS Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet) - A convenient cheatsheet showing the different Tailwind CSS utility classes.
-- [Tailwind CSS Plugin for Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin that automatically sorts utility classes based on the [Tailwind CSS recommended class order](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted).
+- [Tailwind CSS cheatsheet](https://nerdcave.com/tailwind-cheat-sheet) - A convenient cheatsheet showing the different Tailwind CSS utility classes.
+- [Tailwind CSS plugin for Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin that automatically sorts utility classes based on the [Tailwind CSS recommended class order](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted).
+- [Tailwind hover and hover groups](https://tailwindcss.com/docs/hover-focus-and-other-states#styling-based-on-parent-state) - Official TailwindCSS documentation showing the usage of the `hover` and `group` utility classes.
+- [Tailwind custom styles](https://tailwindcss.com/docs/adding-custom-styles#adding-custom-utilities) - Official TailwindCSS documentation showing how to add custom classes.
 - [Hsl to Hex color conversion](https://htmlcolors.com/hsl-to-hex) - A useful color converter to convert HSL to Hex for inclusion in the Tailwind CSS config file.
+- [Image overlay hover effect](https://www.geeksforgeeks.org/how-to-create-image-overlay-hover-using-html-css/) - An article illustrating how an image overlay effort can be created.
 
 ## Author
 
